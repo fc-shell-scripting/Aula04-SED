@@ -1,3 +1,10 @@
+- [SED](#sed)
+    - [Expressões regulares](#expresses-regulares)
+    - [Uso básico do sed](#uso-basico-do-sed)
+    - [Uso de sed com regex simples](#uso-de-sed-com-regex-simples)
+    - [expressões regulares](#expresses-regulares)
+    - [Exercícios](#exercicios)
+    - [Desafio](#desafio)
 # SED
 O comando sed, é usado para editar linhas de texto, dentro de arquivos, ou em memória. Sed vem instalado em muitas distribuições linux por default, então é muito provável que sua máquina já tenha este programa.
 
